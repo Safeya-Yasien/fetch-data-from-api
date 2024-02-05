@@ -5,4 +5,4 @@
 <br>
 <hr>
 
-Live Server: []
+Live Server: [https://safeya-yasien.github.io/fetch-data-from-api/]
